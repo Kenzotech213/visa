@@ -1,4 +1,4 @@
-st of users
+list of users
 simon
 peter 
 paul
